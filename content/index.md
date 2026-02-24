@@ -51,14 +51,9 @@ Résultat : une plateforme prête pour la production, avec rollback et supervisi
 
 ## Comment je travaille — process en 6 étapes
 
-```mermaid
-flowchart LR
-    A["1. Cadrage\n& périmètre"] --> B["2. Audit rapide\n& inventaire"]
-    B --> C["3. Plan de\nremédiation"]
-    C --> D["4. Implémentation\n(fenêtres, rollback)"]
-    D --> E["5. Validation\n(tests, preuves)"]
-    E --> F["6. Restitution\n& transfert"]
-```
+
+![[plan-6-étapes.png]]
+
 
 1. **Cadrage & périmètre** — Définition des objectifs, contraintes, exclusions.
 2. **Audit rapide & inventaire** — État des lieux technique, cartographie des risques prioritaires.

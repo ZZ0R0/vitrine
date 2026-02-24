@@ -236,6 +236,11 @@
   },
   "active": "43c80f5398b55272",
   "lastOpenFiles": [
+    "content/annexes/images/plan-6-étapes.png",
+    "content/index.md",
+    "content/annexes/schémas/plan-6-étapes.drawio",
+    "content/annexes/schémas",
+    "content/Instructions.md",
     "Untitled.md",
     "content/annexes/pdfs/README.md",
     "content/annexes/images/README.md",
@@ -259,9 +264,6 @@
     "content/preuves/preuve-c1-proxmox-plateforme-stable.md",
     "content/preuves/preuve-b2-iam-onboarding-offboarding.md",
     "content/preuves/preuve-b1-ad-tiering-admin-securisee.md",
-    "content/preuves/preuve-a2-pra-pca-minimal.md",
-    "content/preuves/preuve-a1-socle-si-lab.md",
-    "content/preuves/_index.md",
     "content/annexes/pdfs/CV.pdf",
     "content/Instructions",
     "content/Instructions.",
@@ -269,8 +271,6 @@
     "content/annexes/pdfs",
     "content/annexes/images/pdfs",
     "content/annexes/images",
-    "content/annexes",
-    "content/à-propos",
-    "content/ressources"
+    "content/annexes"
   ]
 }
