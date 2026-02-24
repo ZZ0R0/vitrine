@@ -49,14 +49,12 @@
             "id": "43c80f5398b55272",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "source": false
+                "file": "content/annexes/images/plan-6-étapes.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "plan-6-étapes"
             }
           }
         ],
@@ -236,8 +234,8 @@
   },
   "active": "43c80f5398b55272",
   "lastOpenFiles": [
-    "content/annexes/images/plan-6-étapes.png",
     "content/index.md",
+    "content/annexes/images/plan-6-étapes.png",
     "content/annexes/schémas/plan-6-étapes.drawio",
     "content/annexes/schémas",
     "content/Instructions.md",

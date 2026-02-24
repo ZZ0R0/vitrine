@@ -29,27 +29,27 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
+      light: "#f5f3f8",          // fond
+      lightgray: "#e2ddea",      // bordures légères
+      gray: "#b7afc3",           // bordures fortes / graph links
+      darkgray: "#2e2a36",       // texte
+      dark: "#1f1b27",           // titres/icônes
+      secondary: "#6b5bd2",      // liens / accent principal
+      tertiary: "#8b7cff",       // hover/visited
+      highlight: "rgba(107, 91, 210, 0.12)",
+      textHighlight: "rgba(139, 124, 255, 0.25)",
+    },
+    darkMode: {
+      light: "#17141f",
+      lightgray: "#24202f",
+      gray: "#3a3447",
+      darkgray: "#d6d2df",
+      dark: "#f0edf8",
+      secondary: "#8b7cff",
+      tertiary: "#6b5bd2",
+      highlight: "rgba(139, 124, 255, 0.14)",
+      textHighlight: "rgba(107, 91, 210, 0.28)",
+    },
       },
     },
   },
