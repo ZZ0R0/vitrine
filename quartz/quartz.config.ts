@@ -29,27 +29,37 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-      light: "#f5f3f8",          // fond
-      lightgray: "#e2ddea",      // bordures légères
-      gray: "#b7afc3",           // bordures fortes / graph links
-      darkgray: "#2e2a36",       // texte
-      dark: "#1f1b27",           // titres/icônes
-      secondary: "#6b5bd2",      // liens / accent principal
-      tertiary: "#8b7cff",       // hover/visited
-      highlight: "rgba(107, 91, 210, 0.12)",
-      textHighlight: "rgba(139, 124, 255, 0.25)",
-    },
-    darkMode: {
-      light: "#17141f",
-      lightgray: "#24202f",
-      gray: "#3a3447",
-      darkgray: "#d6d2df",
-      dark: "#f0edf8",
-      secondary: "#8b7cff",
-      tertiary: "#6b5bd2",
-      highlight: "rgba(139, 124, 255, 0.14)",
-      textHighlight: "rgba(107, 91, 210, 0.28)",
-    },
+          light: "#ffffff", // --color-base-00:contentReference[oaicite:5]{index=5}
+          lightgray: "#f6f6f6", // --color-base-20:contentReference[oaicite:6]{index=6}
+          gray: "#e0e0e0", // --color-base-30:contentReference[oaicite:7]{index=7}
+          darkgray: "#5c5c5c", // --color-base-70:contentReference[oaicite:8]{index=8}
+          dark: "#222222", // --color-base-100:contentReference[oaicite:9]{index=9}
+
+          // accent Obsidian (hsl(258,88%,66%)):contentReference[oaicite:10]{index=10}
+          secondary: "#8a5cf5",
+          // variante légèrement plus claire (équivalent “accent-1” light)
+          tertiary: "#9873f7",
+
+          // hover soft = rgba(var(--mono-rgb-100), 0.067) avec mono-rgb-100=0,0,0 en light:contentReference[oaicite:11]{index=11}
+          highlight: "rgba(0, 0, 0, 0.067)",
+          textHighlight: "hsla(258, 88%, 66%, 0.20)",
+        },
+
+        darkMode: {
+          light: "#1e1e1e", // --color-base-00:contentReference[oaicite:12]{index=12}
+          lightgray: "#242424", // --color-base-10:contentReference[oaicite:13]{index=13}
+          gray: "#363636", // --color-base-30:contentReference[oaicite:14]{index=14}
+          darkgray: "#b3b3b3", // --color-base-70:contentReference[oaicite:15]{index=15}
+          dark: "#dadada", // --color-base-100:contentReference[oaicite:16]{index=16}
+
+          // text-accent en dark = accent-1 (plus doux que l’accent brut):contentReference[oaicite:17]{index=17}
+          secondary: "#a68af9",
+          tertiary: "#c5b6fc",
+
+          // hover soft = rgba(var(--mono-rgb-100), 0.067) avec mono-rgb-100=255,255,255 en dark:contentReference[oaicite:18]{index=18}:contentReference[oaicite:19]{index=19}
+          highlight: "rgba(255, 255, 255, 0.067)",
+          textHighlight: "hsla(258, 88%, 66%, 0.20)",
+        },
       },
     },
   },
