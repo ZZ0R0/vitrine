@@ -87,9 +87,9 @@ Concrètement :
 
 ## Pour aller plus loin
 
-- **Offre associée** : [[content/offres/options|Options — Observabilité / SIEM-lite]] — Pipeline de collecte, dashboards, alerting.
-- **Preuve associée** : [[content/preuves/preuve-t1-observabilite-siem-lite|Preuve T1 — Observabilité & SIEM-lite]] — Déploiement complet sur lab.
-- **Méthode** : [[content/methodes/journalisation-et-conformite|Journalisation & conformité]] — Détails techniques et architecture.
+- **Offre associée** : [[offres/options|Options — Observabilité / SIEM-lite]] — Pipeline de collecte, dashboards, alerting.
+- **Preuve associée** : [[preuves/preuve-t1-observabilite-siem-lite|Preuve T1 — Observabilité & SIEM-lite]] — Déploiement complet sur lab.
+- **Méthode** : [[methodes/journalisation-et-conformite|Journalisation & conformité]] — Détails techniques et architecture.
 
 ---
 

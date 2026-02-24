@@ -64,9 +64,9 @@ L'approche "plateforme" consiste à traiter Proxmox comme une infrastructure cri
 
 ## Pour aller plus loin
 
-- **Offre associée** : [[content/offres/plateforme-proxmox-docker|Bundle C — Plateforme Proxmox & Docker]] — Déploiement et industrialisation complets.
-- **Preuve associée** : [[content/preuves/preuve-c1-proxmox-plateforme-stable|Preuve C1 — Proxmox plateforme stable]] — Segmentation, snapshots, backups, supervision sur lab.
-- **Méthode** : [[content/methodes/restauration-backup-pra|Restauration, backup & PRA/PCA]]
+- **Offre associée** : [[offres/plateforme-proxmox-docker|Bundle C — Plateforme Proxmox & Docker]] — Déploiement et industrialisation complets.
+- **Preuve associée** : [[preuves/preuve-c1-proxmox-plateforme-stable|Preuve C1 — Proxmox plateforme stable]] — Segmentation, snapshots, backups, supervision sur lab.
+- **Méthode** : [[methodes/restauration-backup-pra|Restauration, backup & PRA/PCA]]
 
 ---
 

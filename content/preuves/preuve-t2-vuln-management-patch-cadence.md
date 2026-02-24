@@ -120,7 +120,7 @@ Chaque vulnérabilité est classée selon 3 axes :
 6. **Vérification** : rescan pour confirmer la correction. Preuve archivée.
 7. **Boucle** : scan hebdomadaire, mise à jour du backlog.
 
-> Méthode complète : [[content/methodes/process-6-etapes|Process en 6 étapes]]
+> Méthode complète : [[methodes/process-6-etapes|Process en 6 étapes]]
 
 ---
 
@@ -192,7 +192,7 @@ Emplacements prévus :
 
 ## Anonymisation appliquée
 
-- [ ] Tokens de remplacement utilisés (voir [[content/methodes/anonymisation-publication|tableau]])
+- [ ] Tokens de remplacement utilisés (voir [[methodes/anonymisation-publication|tableau]])
 - [ ] Captures floutées + cartouche ajouté
 - [ ] Métadonnées EXIF supprimées
 - [ ] Grep inverse effectué (aucun résultat)
@@ -203,8 +203,8 @@ Emplacements prévus :
 
 ## Références
 
-- **Offre** : [[content/offres/options|Options — Vuln management & patch cadence]]
-- **Méthode** : [[content/methodes/process-6-etapes|Process en 6 étapes]]
+- **Offre** : [[offres/options|Options — Vuln management & patch cadence]]
+- **Méthode** : [[methodes/process-6-etapes|Process en 6 étapes]]
 - **ANSSI** : [Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/)
 
 ---

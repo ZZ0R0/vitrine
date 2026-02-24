@@ -180,7 +180,7 @@ Emplacements prévus :
 
 ## Anonymisation appliquée
 
-- [ ] Tokens de remplacement utilisés (voir [[content/methodes/anonymisation-publication|tableau]])
+- [ ] Tokens de remplacement utilisés (voir [[methodes/anonymisation-publication|tableau]])
 - [ ] Captures floutées + cartouche ajouté
 - [ ] Métadonnées EXIF supprimées
 - [ ] Grep inverse effectué (aucun résultat)
@@ -191,9 +191,9 @@ Emplacements prévus :
 
 ## Références
 
-- **Offre** : [[content/offres/ad-durci|Bundle B — Active Directory durci]]
-- **Méthode** : [[content/methodes/process-6-etapes|Process en 6 étapes]]
-- **Article** : [[content/ressources/onboarding-offboarding-les-10-erreurs|Onboarding/offboarding : les 10 erreurs]]
+- **Offre** : [[offres/ad-durci|Bundle B — Active Directory durci]]
+- **Méthode** : [[methodes/process-6-etapes|Process en 6 étapes]]
+- **Article** : [[ressources/onboarding-offboarding-les-10-erreurs|Onboarding/offboarding : les 10 erreurs]]
 - **ANSSI** : [Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/)
 - **CNIL** : [Gestion des habilitations](https://www.cnil.fr/fr/guide-de-la-securite-des-donnees-personnelles)
 

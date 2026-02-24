@@ -48,7 +48,7 @@ tags:
 2. [Étape 2]
 3. [Étape n]
 
-> Méthode complète : [[content/methodes/process-6-etapes|Process en 6 étapes]]
+> Méthode complète : [[methodes/process-6-etapes|Process en 6 étapes]]
 
 ---
 
@@ -98,7 +98,7 @@ tags:
 
 ## Anonymisation appliquée
 
-- [ ] Tokens de remplacement utilisés (voir [[content/methodes/anonymisation-publication|tableau]])
+- [ ] Tokens de remplacement utilisés (voir [[methodes/anonymisation-publication|tableau]])
 - [ ] Captures floutées + cartouche ajouté
 - [ ] Métadonnées EXIF supprimées
 - [ ] Grep inverse effectué (aucun résultat)
@@ -116,9 +116,9 @@ tags:
 
 ## Références
 
-- **Offre** : [[content/offres/xxx|Bundle X — Titre]]
-- **Méthode** : [[content/methodes/process-6-etapes|Process en 6 étapes]]
-- **Article** : [[content/ressources/xxx|Titre de l'article]]
+- **Offre** : [[offres/xxx|Bundle X — Titre]]
+- **Méthode** : [[methodes/process-6-etapes|Process en 6 étapes]]
+- **Article** : [[ressources/xxx|Titre de l'article]]
 
 ---
 

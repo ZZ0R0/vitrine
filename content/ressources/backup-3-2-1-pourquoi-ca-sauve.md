@@ -68,13 +68,13 @@ Si vos 3 copies sont dans la même salle serveur, un incendie ou un dégât des 
 
 ## Pour aller plus loin
 
-- **Offre associée** : [[content/offres/socle-si-securise|Bundle A — Socle SI sécurisé]] — Mise en place de la stratégie 3-2-1 incluse.
-- **Preuve associée** : [[content/preuves/preuve-a2-pra-pca-minimal|Preuve A2 — PRA/PCA minimal]] — Tests de restauration documentés sur lab.
-- **Méthode** : [[content/methodes/restauration-backup-pra|Restauration, backup & PRA/PCA]] — Détails techniques et scénarios.
+- **Offre associée** : [[offres/socle-si-securise|Bundle A — Socle SI sécurisé]] — Mise en place de la stratégie 3-2-1 incluse.
+- **Preuve associée** : [[preuves/preuve-a2-pra-pca-minimal|Preuve A2 — PRA/PCA minimal]] — Tests de restauration documentés sur lab.
+- **Méthode** : [[methodes/restauration-backup-pra|Restauration, backup & PRA/PCA]] — Détails techniques et scénarios.
 
 ---
 
 ## Références
 
 - [ANSSI — Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/) (mesures R36, R37)
-- [[content/ressources/rpo-rto-explique-sans-jargon|Article complémentaire — RPO/RTO expliqué sans jargon]]
+- [[ressources/rpo-rto-explique-sans-jargon|Article complémentaire — RPO/RTO expliqué sans jargon]]

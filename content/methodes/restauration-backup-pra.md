@@ -120,8 +120,8 @@ Chaque test de restauration produit un journal contenant :
 
 ## Références
 
-- [[content/preuves/preuve-a2-pra-pca-minimal|Preuve A2 — PRA/PCA minimal]]
-- [[content/methodes/process-6-etapes|Process en 6 étapes]]
+- [[preuves/preuve-a2-pra-pca-minimal|Preuve A2 — PRA/PCA minimal]]
+- [[methodes/process-6-etapes|Process en 6 étapes]]
 - [ANSSI — Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/) (mesures relatives aux sauvegardes)
-- [[content/ressources/backup-3-2-1-pourquoi-ca-sauve|Article vulgarisé — La règle 3-2-1]]
-- [[content/ressources/rpo-rto-explique-sans-jargon|Article vulgarisé — RPO/RTO expliqué]]
+- [[ressources/backup-3-2-1-pourquoi-ca-sauve|Article vulgarisé — La règle 3-2-1]]
+- [[ressources/rpo-rto-explique-sans-jargon|Article vulgarisé — RPO/RTO expliqué]]

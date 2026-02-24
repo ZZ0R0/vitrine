@@ -65,9 +65,9 @@ Un "socle SI sécurisé" pour une PME, c'est :
 
 ## Pour aller plus loin
 
-- **Offre associée** : [[content/offres/socle-si-securise|Bundle A — Socle SI sécurisé]] — Remise à niveau complète en 5 à 15 jours.
-- **Preuve associée** : [[content/preuves/preuve-a1-socle-si-lab|Preuve A1 — Socle SI (lab)]] — Démonstration complète sur environnement lab.
-- **Méthode** : [[content/methodes/process-6-etapes|Process en 6 étapes]] — Comment se déroule une mission.
+- **Offre associée** : [[offres/socle-si-securise|Bundle A — Socle SI sécurisé]] — Remise à niveau complète en 5 à 15 jours.
+- **Preuve associée** : [[preuves/preuve-a1-socle-si-lab|Preuve A1 — Socle SI (lab)]] — Démonstration complète sur environnement lab.
+- **Méthode** : [[methodes/process-6-etapes|Process en 6 étapes]] — Comment se déroule une mission.
 
 ---
 

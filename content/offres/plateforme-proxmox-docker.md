@@ -104,17 +104,17 @@ tags:
 
 ## Options complémentaires
 
-- [[content/offres/options|Haute disponibilité Proxmox (cluster)]]
-- [[content/offres/options|CI/CD conteneurs]]
-- [[content/offres/options|Observabilité / SIEM-lite]]
-- [[content/offres/options|Formation exploitation Proxmox/Docker]]
+- [[offres/options|Haute disponibilité Proxmox (cluster)]]
+- [[offres/options|CI/CD conteneurs]]
+- [[offres/options|Observabilité / SIEM-lite]]
+- [[offres/options|Formation exploitation Proxmox/Docker]]
 
 ---
 
 ## Preuves associées
 
-- [[content/preuves/preuve-c1-proxmox-plateforme-stable|Preuve C1 — Plateforme Proxmox stable (lab)]] : segmentation, snapshots, backups, supervision.
-- [[content/preuves/preuve-c2-docker-portainer-ldap-sso|Preuve C2 — Docker industrialisé : reverse proxy TLS + Portainer + SSO/LDAP]] : architecture complète, exploitation documentée.
+- [[preuves/preuve-c1-proxmox-plateforme-stable|Preuve C1 — Plateforme Proxmox stable (lab)]] : segmentation, snapshots, backups, supervision.
+- [[preuves/preuve-c2-docker-portainer-ldap-sso|Preuve C2 — Docker industrialisé : reverse proxy TLS + Portainer + SSO/LDAP]] : architecture complète, exploitation documentée.
 
 ---
 
@@ -122,12 +122,12 @@ tags:
 
 **À partir de** — sur devis après cadrage gratuit (30 min).
 
-> **[[content/à-propos/contact|Prendre contact →]]**
+> **[[à-propos/contact|Prendre contact →]]**
 
 ---
 
 ## Références méthodologiques
 
-- [[content/methodes/process-6-etapes|Process en 6 étapes]]
-- [[content/methodes/restauration-backup-pra|Méthode de sauvegarde et PRA]]
+- [[methodes/process-6-etapes|Process en 6 étapes]]
+- [[methodes/restauration-backup-pra|Méthode de sauvegarde et PRA]]
 - [ANSSI — Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/)

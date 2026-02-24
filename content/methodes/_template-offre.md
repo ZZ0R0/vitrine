@@ -46,7 +46,7 @@ tags:
 - [Élément 2]
 
 ### OUT (exclus sauf option)
-- [Élément 1] (voir [[content/offres/options|options]])
+- [Élément 1] (voir [[offres/options|options]])
 
 ---
 
@@ -84,14 +84,14 @@ tags:
 
 ## Options complémentaires
 
-- [[content/offres/options|Option 1]]
+- [[offres/options|Option 1]]
 
 ---
 
 ## Preuves associées
 
-- [[content/preuves/preuve-x1-xxx|Preuve X1 — Titre]]
-- [[content/preuves/preuve-x2-xxx|Preuve X2 — Titre]]
+- [[preuves/preuve-x1-xxx|Preuve X1 — Titre]]
+- [[preuves/preuve-x2-xxx|Preuve X2 — Titre]]
 
 ---
 
@@ -99,12 +99,12 @@ tags:
 
 **À partir de** — sur devis après cadrage gratuit (30 min).
 
-> **[[content/à-propos/contact|Prendre contact →]]**
+> **[[à-propos/contact|Prendre contact →]]**
 
 ---
 
 ## Références méthodologiques
 
-- [[content/methodes/process-6-etapes|Process en 6 étapes]]
+- [[methodes/process-6-etapes|Process en 6 étapes]]
 - [Référence externe](URL)
 ```

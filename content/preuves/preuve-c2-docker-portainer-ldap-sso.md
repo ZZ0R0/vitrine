@@ -94,7 +94,7 @@ sequenceDiagram
 8. **Documentation** : architecture, procédures d'ajout de service, rotation secrets.
 9. **Tests** : accès sans SSO → refusé, accès avec SSO → autorisé, rotation secret → vérifié.
 
-> Méthode complète : [[content/methodes/process-6-etapes|Process en 6 étapes]]
+> Méthode complète : [[methodes/process-6-etapes|Process en 6 étapes]]
 
 ---
 
@@ -204,7 +204,7 @@ Emplacements prévus :
 
 ## Anonymisation appliquée
 
-- [ ] Tokens de remplacement utilisés (voir [[content/methodes/anonymisation-publication|tableau]])
+- [ ] Tokens de remplacement utilisés (voir [[methodes/anonymisation-publication|tableau]])
 - [ ] Captures floutées + cartouche ajouté
 - [ ] Métadonnées EXIF supprimées
 - [ ] Grep inverse effectué (aucun résultat)
@@ -215,9 +215,9 @@ Emplacements prévus :
 
 ## Références
 
-- **Offre** : [[content/offres/plateforme-proxmox-docker|Bundle C — Plateforme Proxmox & Docker]]
-- **Méthode** : [[content/methodes/process-6-etapes|Process en 6 étapes]]
-- **Article** : [[content/ressources/docker-en-prod-les-7-regles|Docker en production : les 7 règles]]
+- **Offre** : [[offres/plateforme-proxmox-docker|Bundle C — Plateforme Proxmox & Docker]]
+- **Méthode** : [[methodes/process-6-etapes|Process en 6 étapes]]
+- **Article** : [[ressources/docker-en-prod-les-7-regles|Docker en production : les 7 règles]]
 - **ANSSI** : [Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/)
 - **CIS** : [Docker Benchmark](https://www.cisecurity.org/benchmark/docker)
 

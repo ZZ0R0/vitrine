@@ -71,6 +71,6 @@ Cette page est un résumé orienté compétences techniques. Le CV complet (parc
 
 ## Liens
 
-- [[content/à-propos/profil|Profil détaillé]]
-- [[content/offres|Offres]]
-- [[content/à-propos/contact|Contact]]
+- [[à-propos/profil|Profil détaillé]]
+- [[offres|Offres]]
+- [[à-propos/contact|Contact]]

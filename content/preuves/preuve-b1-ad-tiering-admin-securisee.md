@@ -87,7 +87,7 @@ flowchart LR
 8. **Journalisation** : activation des événements d'audit avancés (4624, 4625, 4672, 4728, 4732...).
 9. **Documentation** : schéma OU, matrice de droits, runbooks, backlog.
 
-> Méthode complète : [[content/methodes/process-6-etapes|Process en 6 étapes]]
+> Méthode complète : [[methodes/process-6-etapes|Process en 6 étapes]]
 
 ---
 
@@ -193,7 +193,7 @@ Emplacements prévus :
 
 ## Anonymisation appliquée
 
-- [ ] Tokens de remplacement utilisés (voir [[content/methodes/anonymisation-publication|tableau]])
+- [ ] Tokens de remplacement utilisés (voir [[methodes/anonymisation-publication|tableau]])
 - [ ] Captures floutées + cartouche ajouté
 - [ ] Métadonnées EXIF supprimées
 - [ ] Grep inverse effectué (aucun résultat)
@@ -204,9 +204,9 @@ Emplacements prévus :
 
 ## Références
 
-- **Offre** : [[content/offres/ad-durci|Bundle B — Active Directory durci]]
-- **Méthode** : [[content/methodes/process-6-etapes|Process en 6 étapes]]
-- **Article** : [[content/ressources/ad-pme-pourquoi-cest-la-cible-1|AD en PME : pourquoi c'est la cible nº1]]
+- **Offre** : [[offres/ad-durci|Bundle B — Active Directory durci]]
+- **Méthode** : [[methodes/process-6-etapes|Process en 6 étapes]]
+- **Article** : [[ressources/ad-pme-pourquoi-cest-la-cible-1|AD en PME : pourquoi c'est la cible nº1]]
 - **ANSSI** : [Recommandations pour l'administration sécurisée des SI](https://www.ssi.gouv.fr/guide/recommandations-relatives-a-ladministration-securisee-des-systemes-dinformation/)
 - **ANSSI** : [Points de contrôle AD](https://www.cert.ssi.gouv.fr/dur/CERTFR-2020-DUR-001/)
 

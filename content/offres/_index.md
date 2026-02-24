@@ -25,26 +25,26 @@ Chaque offre inclut : documentation, runbooks, backlog de remédiation, transfer
 
 ## Détail des offres
 
-### [[content/offres/socle-si-securise|Bundle A — Socle SI sécurisé]]
+### [[offres/socle-si-securise|Bundle A — Socle SI sécurisé]]
 Remise à niveau complète du socle technique : segmentation réseau, durcissement, sauvegardes testées, supervision minimale.
 
-### [[content/offres/ad-durci|Bundle B — Active Directory durci]]
+### [[offres/ad-durci|Bundle B — Active Directory durci]]
 Séparation des privilèges, bastion admin, réduction des chemins d'attaque, journalisation des actions sensibles.
 
-### [[content/offres/plateforme-proxmox-docker|Bundle C — Plateforme Proxmox & Docker]]
+### [[offres/plateforme-proxmox-docker|Bundle C — Plateforme Proxmox & Docker]]
 Virtualisation stable et conteneurisation industrialisée : SSO, reverse proxy TLS, exploitation documentée.
 
 ---
 
 ## Compléments
 
-- [[content/offres/options|Options à la carte]] — Vuln management, observabilité, PRA/PCA, formation, astreinte.
-- [[content/offres/faq|FAQ]] — Réponses aux questions fréquentes des prospects et clients.
+- [[offres/options|Options à la carte]] — Vuln management, observabilité, PRA/PCA, formation, astreinte.
+- [[offres/faq|FAQ]] — Réponses aux questions fréquentes des prospects et clients.
 
 ---
 
 ## Process commun à toutes les offres
 
-Chaque mission suit le [[content/methodes/process-6-etapes|process en 6 étapes]] : cadrage → audit → plan → implémentation → validation → restitution.
+Chaque mission suit le [[methodes/process-6-etapes|process en 6 étapes]] : cadrage → audit → plan → implémentation → validation → restitution.
 
-La [[content/methodes/anonymisation-publication|politique d'anonymisation]] garantit qu'aucune donnée identifiable n'est publiée.
+La [[methodes/anonymisation-publication|politique d'anonymisation]] garantit qu'aucune donnée identifiable n'est publiée.

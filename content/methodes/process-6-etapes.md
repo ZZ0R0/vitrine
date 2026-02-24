@@ -131,7 +131,7 @@ Avant le démarrage de la mission, le client doit fournir :
 
 ## Références
 
-- [[content/offres|Toutes les offres]]
-- [[content/methodes/anonymisation-publication|Anonymisation & publication]]
-- [[content/methodes/securite-des-donnees|Sécurité des données]]
+- [[offres|Toutes les offres]]
+- [[methodes/anonymisation-publication|Anonymisation & publication]]
+- [[methodes/securite-des-donnees|Sécurité des données]]
 - [ANSSI — Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/)

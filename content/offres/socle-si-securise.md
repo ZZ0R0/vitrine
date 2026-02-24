@@ -47,8 +47,8 @@ tags:
 - Refonte complète du réseau physique (câblage, switches).
 - Déploiement de nouveaux serveurs / migration applicative.
 - Gestion des postes utilisateurs (masterisation, MDM).
-- PRA/PCA complet (voir [[content/offres/options|options]]).
-- Supervision avancée / SIEM (voir [[content/offres/options|options]]).
+- PRA/PCA complet (voir [[offres/options|options]]).
+- Supervision avancée / SIEM (voir [[offres/options|options]]).
 
 ---
 
@@ -100,10 +100,10 @@ tags:
 
 ## Options complémentaires
 
-- [[content/offres/options|PRA/PCA + tests réguliers]]
-- [[content/offres/options|Vuln management & patch cadence]]
-- [[content/offres/options|Observabilité / SIEM-lite]]
-- [[content/offres/options|Formation interne]]
+- [[offres/options|PRA/PCA + tests réguliers]]
+- [[offres/options|Vuln management & patch cadence]]
+- [[offres/options|Observabilité / SIEM-lite]]
+- [[offres/options|Formation interne]]
 
 ---
 
@@ -111,8 +111,8 @@ tags:
 
 Ces projets lab démontrent les compétences et la méthode appliquées dans ce bundle :
 
-- [[content/preuves/preuve-a1-socle-si-lab|Preuve A1 — Socle SI (lab complet)]] : segmentation, MFA, sauvegardes testées, monitoring.
-- [[content/preuves/preuve-a2-pra-pca-minimal|Preuve A2 — PRA/PCA minimal]] : RPO/RTO, stratégie 3-2-1, exercices de restauration.
+- [[preuves/preuve-a1-socle-si-lab|Preuve A1 — Socle SI (lab complet)]] : segmentation, MFA, sauvegardes testées, monitoring.
+- [[preuves/preuve-a2-pra-pca-minimal|Preuve A2 — PRA/PCA minimal]] : RPO/RTO, stratégie 3-2-1, exercices de restauration.
 
 ---
 
@@ -121,12 +121,12 @@ Ces projets lab démontrent les compétences et la méthode appliquées dans ce 
 **À partir de** — sur devis après cadrage gratuit (30 min).
 Le cadrage permet de dimensionner précisément le périmètre et de fournir une proposition fixe.
 
-> **[[content/à-propos/contact|Prendre contact →]]**
+> **[[à-propos/contact|Prendre contact →]]**
 
 ---
 
 ## Références méthodologiques
 
-- [[content/methodes/process-6-etapes|Process en 6 étapes]]
+- [[methodes/process-6-etapes|Process en 6 étapes]]
 - [ANSSI — Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/)
 - [ANSSI — Recommandations pour l'administration sécurisée des SI](https://www.ssi.gouv.fr/guide/recommandations-relatives-a-ladministration-securisee-des-systemes-dinformation/)

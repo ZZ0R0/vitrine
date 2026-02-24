@@ -7,7 +7,7 @@ tags:
 
 # Options à la carte
 
-Ces options complètent les [[content/offres|bundles principaux]] et peuvent être souscrites séparément (TJM ou forfait selon le périmètre).
+Ces options complètent les [[offres|bundles principaux]] et peuvent être souscrites séparément (TJM ou forfait selon le périmètre).
 
 ---
 
@@ -22,7 +22,7 @@ Ces options complètent les [[content/offres|bundles principaux]] et peuvent êt
 - Backlog de patching suivi et documenté.
 - Preuve de patch appliqué (journal).
 
-**Références** : [[content/preuves/preuve-t2-vuln-management-patch-cadence|Preuve T2 — Vuln management & patch cadence]]
+**Références** : [[preuves/preuve-t2-vuln-management-patch-cadence|Preuve T2 — Vuln management & patch cadence]]
 
 ---
 
@@ -37,7 +37,7 @@ Ces options complètent les [[content/offres|bundles principaux]] et peuvent êt
 - Runbook d'investigation : que faire quand une alerte se déclenche.
 - Principe de minimisation (CNIL) : on ne collecte que ce qui est utile et justifié.
 
-**Références** : [[content/preuves/preuve-t1-observabilite-siem-lite|Preuve T1 — Observabilité & SIEM-lite]]
+**Références** : [[preuves/preuve-t1-observabilite-siem-lite|Preuve T1 — Observabilité & SIEM-lite]]
 
 ---
 
@@ -52,7 +52,7 @@ Ces options complètent les [[content/offres|bundles principaux]] et peuvent êt
 - Journal de test : durée, résultat, écarts, actions correctives.
 - Documentation PRA/PCA (procédures de reprise pas-à-pas).
 
-**Références** : [[content/methodes/restauration-backup-pra|Méthode PRA/PCA]] · [[content/preuves/preuve-a2-pra-pca-minimal|Preuve A2 — PRA/PCA minimal]]
+**Références** : [[methodes/restauration-backup-pra|Méthode PRA/PCA]] · [[preuves/preuve-a2-pra-pca-minimal|Preuve A2 — PRA/PCA minimal]]
 
 ---
 
@@ -110,4 +110,4 @@ Ces options complètent les [[content/offres|bundles principaux]] et peuvent êt
 Chaque option est chiffrée après cadrage du périmètre.
 Formats possibles : **TJM** (taux journalier moyen) ou **forfait** selon la prestation.
 
-> **[[content/à-propos/contact|Prendre contact pour un devis →]]**
+> **[[à-propos/contact|Prendre contact pour un devis →]]**

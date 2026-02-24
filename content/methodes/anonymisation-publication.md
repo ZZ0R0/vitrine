@@ -127,6 +127,6 @@ Avant toute publication, vérifier chaque fichier :
 
 ## Références
 
-- [[content/methodes/securite-des-donnees|Sécurité des données]]
+- [[methodes/securite-des-donnees|Sécurité des données]]
 - [CNIL — Guide de la sécurité des données personnelles](https://www.cnil.fr/fr/guide-de-la-securite-des-donnees-personnelles)
 - [Directive NIS2 — contexte](https://www.ssi.gouv.fr/directive-nis-2/) (cadre réglementaire, sans analyse juridique)

@@ -30,10 +30,10 @@ En cas de doute, l'intervention est reportée. Aucune modification "à chaud" sa
 **Trois principes systématiques :**
 
 1. **Séparation stricte** : les données client ne sont jamais mélangées, jamais publiées, jamais stockées au-delà de la mission.
-2. **Anonymisation** : tout ce qui est publié (preuves, schémas, captures) passe par un [[content/methodes/anonymisation-publication|pipeline d'anonymisation]] documenté. Noms, IP, domaines, identifiants sont remplacés par des tokens génériques (`CLIENT-X`, `DC01`, `APP01`).
-3. **Chiffrement & effacement** : les données de travail sont chiffrées en transit et au repos. En fin de mission, les données sont effacées selon la [[content/methodes/securite-des-donnees|politique de sécurité des données]].
+2. **Anonymisation** : tout ce qui est publié (preuves, schémas, captures) passe par un [[methodes/anonymisation-publication|pipeline d'anonymisation]] documenté. Noms, IP, domaines, identifiants sont remplacés par des tokens génériques (`CLIENT-X`, `DC01`, `APP01`).
+3. **Chiffrement & effacement** : les données de travail sont chiffrées en transit et au repos. En fin de mission, les données sont effacées selon la [[methodes/securite-des-donnees|politique de sécurité des données]].
 
-> Détail complet : [[content/methodes/securite-des-donnees|Sécurité des données]]
+> Détail complet : [[methodes/securite-des-donnees|Sécurité des données]]
 
 ---
 
@@ -52,7 +52,7 @@ Ce qui n'est **jamais** publié :
 - Noms d'hôtes, IP, domaines, identifiants.
 - Détails techniques permettant d'identifier un client ou d'exploiter une vulnérabilité.
 
-> Détail complet : [[content/methodes/anonymisation-publication|Politique d'anonymisation]]
+> Détail complet : [[methodes/anonymisation-publication|Politique d'anonymisation]]
 
 ---
 
@@ -79,7 +79,7 @@ Ce qui n'est **jamais** publié :
 
 Les bundles sont **complémentaires** : un client peut commencer par A, puis enchaîner B et C. Le cadrage initial identifie la priorité.
 
-> Détail : [[content/offres|Comparatif des offres]]
+> Détail : [[offres|Comparatif des offres]]
 
 ---
 
@@ -90,7 +90,7 @@ Le cadrage permet de dimensionner le périmètre exact et de fournir une proposi
 
 Pas de tarif catalogue : chaque SI est différent, et un forfait "au kilo" ne garantit pas la qualité.
 
-> **[[content/à-propos/contact|Prendre contact →]]**
+> **[[à-propos/contact|Prendre contact →]]**
 
 ---
 
@@ -106,7 +106,7 @@ Pas de tarif catalogue : chaque SI est différent, et un forfait "au kilo" ne ga
 
 ## Et si j'ai juste besoin d'un coup de main ponctuel ?
 
-C'est possible. Les [[content/offres/options|options à la carte]] permettent des interventions ciblées :
+C'est possible. Les [[offres/options|options à la carte]] permettent des interventions ciblées :
 - Revue d'architecture.
 - Formation.
 - Audit rapide.
@@ -118,8 +118,8 @@ Le cadrage gratuit permet de définir le format le plus adapté.
 
 ## Références
 
-- [[content/offres|Toutes les offres]]
-- [[content/methodes/process-6-etapes|Process en 6 étapes]]
-- [[content/methodes/anonymisation-publication|Politique d'anonymisation]]
-- [[content/methodes/securite-des-donnees|Sécurité des données]]
-- [[content/à-propos/contact|Contact]]
+- [[offres|Toutes les offres]]
+- [[methodes/process-6-etapes|Process en 6 étapes]]
+- [[methodes/anonymisation-publication|Politique d'anonymisation]]
+- [[methodes/securite-des-donnees|Sécurité des données]]
+- [[à-propos/contact|Contact]]

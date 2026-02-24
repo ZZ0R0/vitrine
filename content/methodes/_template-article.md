@@ -55,9 +55,9 @@ tags:
 
 ## Pour aller plus loin
 
-- **Offre associée** : [[content/offres/xxx|Bundle X — Titre]] — [1 phrase expliquant le lien]
-- **Preuve associée** : [[content/preuves/preuve-xx-xxx|Preuve XX — Titre]] — [1 phrase expliquant ce qu'on y trouve]
-- **Méthode** : [[content/methodes/xxx|Titre]] — [1 phrase]
+- **Offre associée** : [[offres/xxx|Bundle X — Titre]] — [1 phrase expliquant le lien]
+- **Preuve associée** : [[preuves/preuve-xx-xxx|Preuve XX — Titre]] — [1 phrase expliquant ce qu'on y trouve]
+- **Méthode** : [[methodes/xxx|Titre]] — [1 phrase]
 
 ---
 
