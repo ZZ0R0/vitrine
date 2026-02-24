@@ -21,7 +21,7 @@ Ce qui guide chaque mission, sans exception.
 - En fin de mission, les données sont effacées de manière vérifiable.
 - Ce qui est publié dans les preuves vient exclusivement de labs personnels, anonymisés.
 
-> Détail : [Sécurité des données](/methodes/securite-des-donnees) · [Anonymisation](/methodes/anonymisation-publication)
+> Détail : [[content/methodes/securite-des-donnees|Sécurité des données]] · [[content/methodes/anonymisation-publication|Anonymisation]]
 
 ---
 
@@ -82,7 +82,7 @@ Ce qui guide chaque mission, sans exception.
 
 ## Références
 
-- [Sécurité des données](/methodes/securite-des-donnees)
-- [Anonymisation & publication](/methodes/anonymisation-publication)
-- [Process en 6 étapes](/methodes/process-6-etapes)
-- [FAQ](/offres/faq)
+- [[content/methodes/securite-des-donnees|Sécurité des données]]
+- [[content/methodes/anonymisation-publication|Anonymisation & publication]]
+- [[content/methodes/process-6-etapes|Process en 6 étapes]]
+- [[content/offres/faq|FAQ]]

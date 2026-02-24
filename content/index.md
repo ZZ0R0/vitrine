@@ -11,41 +11,41 @@ Un prestataire unique pour votre socle technique : de l'audit initial à l'explo
 
 ## Trois offres clés en main
 
-### [Bundle A — Socle SI sécurisé](/offres/socle-si-securise)
+### [[content/offres/socle-si-securise|Bundle A — Socle SI sécurisé]]
 Remise à niveau complète : segmentation réseau, durcissement, sauvegardes testées, supervision minimale.
 Résultat : un SI fonctionnel, documenté, avec des preuves de restauration.
 
-### [Bundle B — Active Directory durci](/offres/ad-durci)
+### [[content/offres/ad-durci|Bundle B — Active Directory durci]]
 Séparation des privilèges, bastion admin, réduction des chemins d'attaque, journalisation.
 Résultat : un AD maîtrisé, auditable, avec des comptes dédiés et des contrôles mesurables.
 
-### [Bundle C — Plateforme Proxmox & Docker](/offres/plateforme-proxmox-docker)
+### [[content/offres/plateforme-proxmox-docker|Bundle C — Plateforme Proxmox & Docker]]
 Virtualisation stable, conteneurisation industrialisée, SSO, reverse proxy TLS, exploitation documentée.
 Résultat : une plateforme prête pour la production, avec rollback et supervision intégrés.
 
-> **[Voir toutes les offres et le comparatif →](/offres/)**
+> **[[content/offres|Voir toutes les offres et le comparatif →]]**
 
 ---
 
 ## Preuves sélectionnées
 
-| Bundle | Preuve | Résumé |
-|--------|--------|--------|
-| A | [Socle SI — lab complet](/preuves/preuve-a1-socle-si-lab) | Segmentation + MFA + sauvegardes testées + monitoring sur environnement lab |
-| B | [AD durci — tiering & admin sécurisée](/preuves/preuve-b1-ad-tiering-admin-securisee) | Modèle de rôles, bastion, GPO durcie, LAPS — lab Active Directory |
-| C | [Docker industrialisé — SSO & reverse proxy](/preuves/preuve-c2-docker-portainer-ldap-sso) | Traefik TLS + Portainer + Authentik/LDAP — lab conteneurs |
+| Bundle | Preuve                                                                                                  | Résumé                                                                      |
+| ------ | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| A      | [[content/preuves/preuve-a1-socle-si-lab\|Socle SI — lab complet]] | Segmentation + MFA + sauvegardes testées + monitoring sur environnement lab |
+| B      | [[content/preuves/preuve-b1-ad-tiering-admin-securisee\|AD durci — tiering & admin sécurisée]] | Modèle de rôles, bastion, GPO durcie, LAPS — lab Active Directory |
+| C      | [[content/preuves/preuve-c2-docker-portainer-ldap-sso\|Docker industrialisé — SSO & reverse proxy]] | Traefik TLS + Portainer + Authentik/LDAP — lab conteneurs |
 
-> **[Toutes les preuves →](/preuves/)**
+> **[[content/preuves|Toutes les preuves →]]**
 
 ---
 
 ## Ressources pour comprendre
 
-- [Pourquoi un socle SI sécurisé est vital pour une PME](/ressources/why-socle-securise-pme)
-- [La règle 3-2-1 des sauvegardes, expliquée simplement](/ressources/backup-3-2-1-pourquoi-ca-sauve)
-- [Docker en production : les 7 règles à respecter](/ressources/docker-en-prod-les-7-regles)
+- [[content/ressources/why-socle-securise-pme|Pourquoi un socle SI sécurisé est vital pour une PME]]
+- [[content/ressources/backup-3-2-1-pourquoi-ca-sauve|La règle 3-2-1 des sauvegardes, expliquée simplement]]
+- [[content/ressources/docker-en-prod-les-7-regles|Docker en production : les 7 règles à respecter]]
 
-> **[Tous les articles →](/ressources/)**
+> **[[content/ressources|Tous les articles →]]**
 
 ---
 
@@ -62,7 +62,7 @@ Résultat : une plateforme prête pour la production, avec rollback et supervisi
 5. **Validation** — Tests fonctionnels, preuves de conformité, KPIs mesurés.
 6. **Restitution & transfert** — Documentation, runbooks, transfert de compétences, backlog résiduel.
 
-> **[Détail du process →](/methodes/process-6-etapes)**
+> **[[content/methodes/process-6-etapes|Détail du process →]]**
 
 ---
 
@@ -86,8 +86,8 @@ Vous avez un besoin en infrastructure, sécurité ou exploitation ?
 **Étape 2** — Je vous propose un cadrage gratuit de 30 minutes.
 **Étape 3** — Vous recevez une proposition claire avec périmètre, livrables et planning.
 
-> 📬 *Formulaire de contact ou prise de rendez-vous à venir — en attendant, utilisez les coordonnées disponibles sur la page [Contact](/à-propos/contact).*
+> 📬 *Formulaire de contact ou prise de rendez-vous à venir — en attendant, utilisez les coordonnées disponibles sur la page [[content/à-propos/contact|Contact]].*
 
 ---
 
-[À propos — Profil, valeurs, CV](/à-propos/) · [Méthodes & garanties](/methodes/) · [FAQ](/offres/faq)
+[[content/à-propos|À propos — Profil, valeurs, CV]] · [[content/methodes|Méthodes & garanties]] · [[content/offres/faq|FAQ]]

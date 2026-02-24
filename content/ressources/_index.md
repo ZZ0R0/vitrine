@@ -13,20 +13,20 @@ Des articles vulgarisés pour comprendre les enjeux IT et cybersécurité sans j
 ## Par thème
 
 ### Socle SI & sauvegardes
-- [Pourquoi un socle SI sécurisé est vital pour une PME](/ressources/why-socle-securise-pme)
-- [La règle 3-2-1 des sauvegardes : pourquoi ça sauve](/ressources/backup-3-2-1-pourquoi-ca-sauve)
-- [RPO/RTO expliqué sans jargon](/ressources/rpo-rto-explique-sans-jargon)
+- [[content/ressources/why-socle-securise-pme|Pourquoi un socle SI sécurisé est vital pour une PME]]
+- [[content/ressources/backup-3-2-1-pourquoi-ca-sauve|La règle 3-2-1 des sauvegardes : pourquoi ça sauve]]
+- [[content/ressources/rpo-rto-explique-sans-jargon|RPO/RTO expliqué sans jargon]]
 
 ### Active Directory & IAM
-- [AD en PME : pourquoi c'est la cible nº1](/ressources/ad-pme-pourquoi-cest-la-cible-1)
-- [Onboarding/offboarding : les 10 erreurs qui coûtent cher](/ressources/onboarding-offboarding-les-10-erreurs)
+- [[content/ressources/ad-pme-pourquoi-cest-la-cible-1|AD en PME : pourquoi c'est la cible nº1]]
+- [[content/ressources/onboarding-offboarding-les-10-erreurs|Onboarding/offboarding : les 10 erreurs qui coûtent cher]]
 
 ### Proxmox & Docker
-- [Proxmox : l'approche plateforme pour PME](/ressources/proxmox-plateforme-pme-approche)
-- [Docker en production : les 7 règles à respecter](/ressources/docker-en-prod-les-7-regles)
+- [[content/ressources/proxmox-plateforme-pme-approche|Proxmox : l'approche plateforme pour PME]]
+- [[content/ressources/docker-en-prod-les-7-regles|Docker en production : les 7 règles à respecter]]
 
 ### Journalisation & conformité
-- [Journalisation utile sans surveiller vos employés](/ressources/journalisation-utile-sans-surveiller)
+- [[content/ressources/journalisation-utile-sans-surveiller|Journalisation utile sans surveiller vos employés]]
 
 ---
 

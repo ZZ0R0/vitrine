@@ -51,7 +51,7 @@ Chaque mission produit des livrables exploitables : schémas d'architecture, run
 
 - **Aucune donnée client** : configurations, noms, IP, domaines, identifiants.
 - **Aucun détail offensif exploitable** : pas de techniques d'attaque, pas d'outils d'évasion, pas de C2.
-- **Aucune capture non anonymisée** : tout passe par le [pipeline d'anonymisation](/methodes/anonymisation-publication).
+- **Aucune capture non anonymisée** : tout passe par le [[content/methodes/anonymisation-publication|pipeline d'anonymisation]].
 
 Les preuves publiées sur ce site sont **exclusivement** des démonstrations lab, anonymisées et documentées.
 
@@ -67,7 +67,7 @@ Les preuves publiées sur ce site sont **exclusivement** des démonstrations lab
 
 ## Liens
 
-- [Offres](/offres/) — Les 3 bundles + options.
-- [Preuves](/preuves/) — Projets lab documentés.
-- [CV](/à-propos/cv) — Téléchargement.
-- [Contact](/à-propos/contact) — Prise de contact.
+- [[content/offres|Offres]] — Les 3 bundles + options.
+- [[content/preuves|Preuves]] — Projets lab documentés.
+- [[content/à-propos/cv|CV]] — Téléchargement.
+- [[content/à-propos/contact|Contact]] — Prise de contact.

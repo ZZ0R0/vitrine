@@ -82,7 +82,7 @@ flowchart TB
 8. **Tests** : rollback de VM, restauration depuis PBS, vérification alertes.
 9. **Documentation** : schéma, runbooks, backlog.
 
-> Méthode complète : [Process en 6 étapes](/methodes/process-6-etapes)
+> Méthode complète : [[content/methodes/process-6-etapes|Process en 6 étapes]]
 
 ---
 
@@ -190,7 +190,7 @@ Emplacements prévus :
 
 ## Anonymisation appliquée
 
-- [ ] Tokens de remplacement utilisés (voir [tableau](/methodes/anonymisation-publication))
+- [ ] Tokens de remplacement utilisés (voir [[content/methodes/anonymisation-publication|tableau]])
 - [ ] Captures floutées + cartouche ajouté
 - [ ] Métadonnées EXIF supprimées
 - [ ] Grep inverse effectué (aucun résultat)
@@ -201,10 +201,10 @@ Emplacements prévus :
 
 ## Références
 
-- **Offre** : [Bundle C — Plateforme Proxmox & Docker](/offres/plateforme-proxmox-docker)
-- **Méthode** : [Process en 6 étapes](/methodes/process-6-etapes)
-- **Méthode** : [Restauration, backup & PRA/PCA](/methodes/restauration-backup-pra)
-- **Article** : [Proxmox : l'approche plateforme pour PME](/ressources/proxmox-plateforme-pme-approche)
+- **Offre** : [[content/offres/plateforme-proxmox-docker|Bundle C — Plateforme Proxmox & Docker]]
+- **Méthode** : [[content/methodes/process-6-etapes|Process en 6 étapes]]
+- **Méthode** : [[content/methodes/restauration-backup-pra|Restauration, backup & PRA/PCA]]
+- **Article** : [[content/ressources/proxmox-plateforme-pme-approche|Proxmox : l'approche plateforme pour PME]]
 - **ANSSI** : [Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/)
 
 ---

@@ -85,9 +85,9 @@ Chaque conteneur est supervisé (état, ressources, logs). Des alertes sont conf
 
 ## Pour aller plus loin
 
-- **Offre associée** : [Bundle C — Plateforme Proxmox & Docker](/offres/plateforme-proxmox-docker) — Docker industrialisé, SSO, reverse proxy TLS.
-- **Preuve associée** : [Preuve C2 — Docker industrialisé + SSO](/preuves/preuve-c2-docker-portainer-ldap-sso) — Architecture complète déployée sur lab.
-- **Méthode** : [Process en 6 étapes](/methodes/process-6-etapes)
+- **Offre associée** : [[content/offres/plateforme-proxmox-docker|Bundle C — Plateforme Proxmox & Docker]] — Docker industrialisé, SSO, reverse proxy TLS.
+- **Preuve associée** : [[content/preuves/preuve-c2-docker-portainer-ldap-sso|Preuve C2 — Docker industrialisé + SSO]] — Architecture complète déployée sur lab.
+- **Méthode** : [[content/methodes/process-6-etapes|Process en 6 étapes]]
 
 ---
 

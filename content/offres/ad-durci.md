@@ -52,7 +52,7 @@ tags:
 - Déploiement Azure AD / Entra ID (périmètre cloud).
 - Gestion des postes utilisateurs (masterisation, MDM).
 - PKI complète (sauf si intégrée au bastion).
-- IAM complet — onboarding/offboarding (voir [Preuve B2](/preuves/preuve-b2-iam-onboarding-offboarding) et [options](/offres/options)).
+- IAM complet — onboarding/offboarding (voir [[content/preuves/preuve-b2-iam-onboarding-offboarding|Preuve B2]] et [[content/offres/options|options]]).
 
 ---
 
@@ -98,23 +98,23 @@ tags:
 - **Impact GPO** : chaque GPO est testée sur une OU de test avant déploiement global. Rollback documenté.
 - **Applications legacy** : certaines applications anciennes peuvent ne pas supporter le durcissement (comptes de service, protocoles obsolètes). Elles sont identifiées et traitées au cas par cas.
 - **Tiering complet** : le modèle proposé est adapté PME. Un tiering "entreprise" (T0/T1/T2 complet avec forêt admin) dépasse ce périmètre.
-- **Pas d'audit offensif** : ce bundle ne comprend pas de test d'intrusion AD. Sur demande, un audit technique peut être proposé dans un cadre légal strict (voir [FAQ](/offres/faq)).
+- **Pas d'audit offensif** : ce bundle ne comprend pas de test d'intrusion AD. Sur demande, un audit technique peut être proposé dans un cadre légal strict (voir [[content/offres/faq|FAQ]]).
 
 ---
 
 ## Options complémentaires
 
-- [IAM complet — onboarding/offboarding](/offres/options)
-- [Audit AD récurrent (trimestriel)](/offres/options)
-- [Formation administration AD sécurisée](/offres/options)
-- [Observabilité / SIEM-lite](/offres/options)
+- [[content/offres/options|IAM complet — onboarding/offboarding]]
+- [[content/offres/options|Audit AD récurrent (trimestriel)]]
+- [[content/offres/options|Formation administration AD sécurisée]]
+- [[content/offres/options|Observabilité / SIEM-lite]]
 
 ---
 
 ## Preuves associées
 
-- [Preuve B1 — AD durci : tiering & admin sécurisée (lab)](/preuves/preuve-b1-ad-tiering-admin-securisee) : modèle de rôles, bastion, GPO, LAPS sur environnement lab.
-- [Preuve B2 — IAM pragmatique : onboarding/offboarding](/preuves/preuve-b2-iam-onboarding-offboarding) : procédures, checklists RH/IT, journalisation.
+- [[content/preuves/preuve-b1-ad-tiering-admin-securisee|Preuve B1 — AD durci : tiering & admin sécurisée (lab)]] : modèle de rôles, bastion, GPO, LAPS sur environnement lab.
+- [[content/preuves/preuve-b2-iam-onboarding-offboarding|Preuve B2 — IAM pragmatique : onboarding/offboarding]] : procédures, checklists RH/IT, journalisation.
 
 ---
 
@@ -122,13 +122,13 @@ tags:
 
 **À partir de** — sur devis après cadrage gratuit (30 min).
 
-> **[Prendre contact →](/à-propos/contact)**
+> **[[content/à-propos/contact|Prendre contact →]]**
 
 ---
 
 ## Références méthodologiques
 
-- [Process en 6 étapes](/methodes/process-6-etapes)
+- [[content/methodes/process-6-etapes|Process en 6 étapes]]
 - [ANSSI — Recommandations pour l'administration sécurisée des SI](https://www.ssi.gouv.fr/guide/recommandations-relatives-a-ladministration-securisee-des-systemes-dinformation/)
 - [ANSSI — Points de contrôle Active Directory](https://www.cert.ssi.gouv.fr/dur/CERTFR-2020-DUR-001/)
 - [CNIL — Sécurité des données personnelles](https://www.cnil.fr/fr/guide-de-la-securite-des-donnees-personnelles)

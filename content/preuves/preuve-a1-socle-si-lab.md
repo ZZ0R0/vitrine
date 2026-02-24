@@ -84,7 +84,7 @@ flowchart TB
 8. **Supervision** : déploiement Zabbix/Prometheus, alertes sur les services critiques.
 9. **Documentation** : schéma réseau, runbooks, backlog.
 
-> Méthode complète : [Process en 6 étapes](/methodes/process-6-etapes)
+> Méthode complète : [[content/methodes/process-6-etapes|Process en 6 étapes]]
 
 ---
 
@@ -191,7 +191,7 @@ Emplacements prévus :
 
 ## Anonymisation appliquée
 
-- [ ] Tokens de remplacement utilisés (voir [tableau](/methodes/anonymisation-publication))
+- [ ] Tokens de remplacement utilisés (voir [[content/methodes/anonymisation-publication|tableau]])
 - [ ] Captures floutées + cartouche ajouté
 - [ ] Métadonnées EXIF supprimées
 - [ ] Grep inverse effectué (aucun résultat)
@@ -202,10 +202,10 @@ Emplacements prévus :
 
 ## Références
 
-- **Offre** : [Bundle A — Socle SI sécurisé](/offres/socle-si-securise)
-- **Méthode** : [Process en 6 étapes](/methodes/process-6-etapes)
-- **Méthode** : [Restauration, backup & PRA/PCA](/methodes/restauration-backup-pra)
-- **Article** : [Pourquoi un socle SI sécurisé est vital pour une PME](/ressources/why-socle-securise-pme)
+- **Offre** : [[content/offres/socle-si-securise|Bundle A — Socle SI sécurisé]]
+- **Méthode** : [[content/methodes/process-6-etapes|Process en 6 étapes]]
+- **Méthode** : [[content/methodes/restauration-backup-pra|Restauration, backup & PRA/PCA]]
+- **Article** : [[content/ressources/why-socle-securise-pme|Pourquoi un socle SI sécurisé est vital pour une PME]]
 - **ANSSI** : [Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/)
 - **ANSSI** : [Administration sécurisée des SI](https://www.ssi.gouv.fr/guide/recommandations-relatives-a-ladministration-securisee-des-systemes-dinformation/)
 

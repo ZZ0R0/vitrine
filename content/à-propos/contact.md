@@ -53,7 +53,7 @@ C'est tout. Le reste se discute pendant le cadrage.
 
 > 📬 *Formulaire de contact / adresse email à insérer ici.*
 >
-> *En attendant la mise en place du formulaire, vous pouvez me contacter via les coordonnées présentes sur mon [CV](/à-propos/cv) ou mon profil professionnel.*
+> *En attendant la mise en place du formulaire, vous pouvez me contacter via les coordonnées présentes sur mon [[content/à-propos/cv|CV]] ou mon profil professionnel.*
 
 <!-- TODO : insérer ici le formulaire de contact ou l'adresse email (obfusquée ou via service tiers) -->
 
@@ -68,6 +68,6 @@ C'est tout. Le reste se discute pendant le cadrage.
 
 ## Références
 
-- [Offres](/offres/) — Vue d'ensemble des bundles et options.
-- [FAQ](/offres/faq) — Réponses aux questions fréquentes.
-- [Process en 6 étapes](/methodes/process-6-etapes) — Comment se déroule une mission.
+- [[content/offres|Offres]] — Vue d'ensemble des bundles et options.
+- [[content/offres/faq|FAQ]] — Réponses aux questions fréquentes.
+- [[content/methodes/process-6-etapes|Process en 6 étapes]] — Comment se déroule une mission.

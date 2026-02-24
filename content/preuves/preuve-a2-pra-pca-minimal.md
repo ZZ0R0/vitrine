@@ -197,7 +197,7 @@ Emplacements prévus :
 
 ## Anonymisation appliquée
 
-- [ ] Tokens de remplacement utilisés (voir [tableau](/methodes/anonymisation-publication))
+- [ ] Tokens de remplacement utilisés (voir [[content/methodes/anonymisation-publication|tableau]])
 - [ ] Captures floutées + cartouche ajouté
 - [ ] Métadonnées EXIF supprimées
 - [ ] Grep inverse effectué (aucun résultat)
@@ -208,11 +208,11 @@ Emplacements prévus :
 
 ## Références
 
-- **Offre** : [Bundle A — Socle SI sécurisé](/offres/socle-si-securise)
-- **Méthode** : [Restauration, backup & PRA/PCA](/methodes/restauration-backup-pra)
-- **Méthode** : [Process en 6 étapes](/methodes/process-6-etapes)
-- **Article** : [La règle 3-2-1 des sauvegardes](/ressources/backup-3-2-1-pourquoi-ca-sauve)
-- **Article** : [RPO/RTO expliqué sans jargon](/ressources/rpo-rto-explique-sans-jargon)
+- **Offre** : [[content/offres/socle-si-securise|Bundle A — Socle SI sécurisé]]
+- **Méthode** : [[content/methodes/restauration-backup-pra|Restauration, backup & PRA/PCA]]
+- **Méthode** : [[content/methodes/process-6-etapes|Process en 6 étapes]]
+- **Article** : [[content/ressources/backup-3-2-1-pourquoi-ca-sauve|La règle 3-2-1 des sauvegardes]]
+- **Article** : [[content/ressources/rpo-rto-explique-sans-jargon|RPO/RTO expliqué sans jargon]]
 - **ANSSI** : [Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/)
 
 ---

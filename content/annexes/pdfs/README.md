@@ -10,7 +10,7 @@ Ce dossier contient les documents PDF associés à la vitrine.
 
 ## Règles
 
-- **CV.pdf** : fourni par l'humain, non généré automatiquement. À déposer ici pour qu'il soit accessible depuis la page [CV](/à-propos/cv).
+- **CV.pdf** : fourni par l'humain, non généré automatiquement. À déposer ici pour qu'il soit accessible depuis la page [[content/à-propos/cv|CV]].
 - **Pas de document confidentiel** : aucun document contenant des données client, des configs ou des informations identifiables.
-- **Anonymisation** : si un PDF contient des captures, elles doivent être anonymisées selon la [politique d'anonymisation](/methodes/anonymisation-publication).
+- **Anonymisation** : si un PDF contient des captures, elles doivent être anonymisées selon la [[content/methodes/anonymisation-publication|politique d'anonymisation]].
 - **Métadonnées** : vérifier et supprimer les métadonnées PDF avant commit (`exiftool -all= document.pdf`).

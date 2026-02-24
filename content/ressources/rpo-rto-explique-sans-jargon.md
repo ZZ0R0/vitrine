@@ -80,13 +80,13 @@ Pour chaque service critique, posez deux questions :
 
 ## Pour aller plus loin
 
-- **Offre associée** : [Bundle A — Socle SI sécurisé](/offres/socle-si-securise) — Définition RPO/RTO incluse dans le cadrage.
-- **Preuve associée** : [Preuve A2 — PRA/PCA minimal](/preuves/preuve-a2-pra-pca-minimal) — RPO/RTO définis et testés sur lab.
-- **Méthode** : [Restauration, backup & PRA/PCA](/methodes/restauration-backup-pra) — Stratégie complète, scénarios, journaux de test.
+- **Offre associée** : [[content/offres/socle-si-securise|Bundle A — Socle SI sécurisé]] — Définition RPO/RTO incluse dans le cadrage.
+- **Preuve associée** : [[content/preuves/preuve-a2-pra-pca-minimal|Preuve A2 — PRA/PCA minimal]] — RPO/RTO définis et testés sur lab.
+- **Méthode** : [[content/methodes/restauration-backup-pra|Restauration, backup & PRA/PCA]] — Stratégie complète, scénarios, journaux de test.
 
 ---
 
 ## Références
 
 - [ANSSI — Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/)
-- [Article complémentaire — La règle 3-2-1](/ressources/backup-3-2-1-pourquoi-ca-sauve)
+- [[content/ressources/backup-3-2-1-pourquoi-ca-sauve|Article complémentaire — La règle 3-2-1]]

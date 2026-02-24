@@ -90,8 +90,8 @@ flowchart LR
 
 ## Références
 
-- [Preuve T1 — Observabilité & SIEM-lite](/preuves/preuve-t1-observabilite-siem-lite)
+- [[content/preuves/preuve-t1-observabilite-siem-lite|Preuve T1 — Observabilité & SIEM-lite]]
 - [CNIL — Journalisation](https://www.cnil.fr/fr/la-cnil-publie-une-recommandation-relative-a-la-journalisation)
 - [CNIL — Guide de la sécurité des données personnelles](https://www.cnil.fr/fr/guide-de-la-securite-des-donnees-personnelles)
 - [ANSSI — Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/)
-- [Article vulgarisé — Journalisation utile sans surveiller](/ressources/journalisation-utile-sans-surveiller)
+- [[content/ressources/journalisation-utile-sans-surveiller|Article vulgarisé — Journalisation utile sans surveiller]]

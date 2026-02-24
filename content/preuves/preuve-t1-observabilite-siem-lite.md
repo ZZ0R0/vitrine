@@ -196,7 +196,7 @@ Emplacements prévus :
 
 ## Anonymisation appliquée
 
-- [ ] Tokens de remplacement utilisés (voir [tableau](/methodes/anonymisation-publication))
+- [ ] Tokens de remplacement utilisés (voir [[content/methodes/anonymisation-publication|tableau]])
 - [ ] Captures floutées + cartouche ajouté
 - [ ] Métadonnées EXIF supprimées
 - [ ] Grep inverse effectué (aucun résultat)
@@ -207,10 +207,10 @@ Emplacements prévus :
 
 ## Références
 
-- **Offre** : [Options — Observabilité / SIEM-lite](/offres/options)
-- **Méthode** : [Journalisation & conformité](/methodes/journalisation-et-conformite)
-- **Méthode** : [Process en 6 étapes](/methodes/process-6-etapes)
-- **Article** : [Journalisation utile sans surveiller](/ressources/journalisation-utile-sans-surveiller)
+- **Offre** : [[content/offres/options|Options — Observabilité / SIEM-lite]]
+- **Méthode** : [[content/methodes/journalisation-et-conformite|Journalisation & conformité]]
+- **Méthode** : [[content/methodes/process-6-etapes|Process en 6 étapes]]
+- **Article** : [[content/ressources/journalisation-utile-sans-surveiller|Journalisation utile sans surveiller]]
 - **CNIL** : [Recommandation relative à la journalisation](https://www.cnil.fr/fr/la-cnil-publie-une-recommandation-relative-a-la-journalisation)
 - **ANSSI** : [Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/)
 

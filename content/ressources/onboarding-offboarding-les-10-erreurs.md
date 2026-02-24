@@ -94,9 +94,9 @@ Pas besoin d'un outil IAM coûteux. Des checklists papier ou Markdown suffisent,
 
 ## Pour aller plus loin
 
-- **Offre associée** : [Bundle B — Active Directory durci](/offres/ad-durci) — IAM inclus ou en option.
-- **Preuve associée** : [Preuve B2 — IAM onboarding/offboarding](/preuves/preuve-b2-iam-onboarding-offboarding) — Procédures testées sur lab AD.
-- **Méthode** : [Process en 6 étapes](/methodes/process-6-etapes)
+- **Offre associée** : [[content/offres/ad-durci|Bundle B — Active Directory durci]] — IAM inclus ou en option.
+- **Preuve associée** : [[content/preuves/preuve-b2-iam-onboarding-offboarding|Preuve B2 — IAM onboarding/offboarding]] — Procédures testées sur lab AD.
+- **Méthode** : [[content/methodes/process-6-etapes|Process en 6 étapes]]
 
 ---
 
@@ -104,4 +104,4 @@ Pas besoin d'un outil IAM coûteux. Des checklists papier ou Markdown suffisent,
 
 - [ANSSI — Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/) (mesures R2, R3)
 - [CNIL — Gestion des habilitations](https://www.cnil.fr/fr/guide-de-la-securite-des-donnees-personnelles)
-- [Article complémentaire — AD en PME : pourquoi c'est la cible nº1](/ressources/ad-pme-pourquoi-cest-la-cible-1)
+- [[content/ressources/ad-pme-pourquoi-cest-la-cible-1|Article complémentaire — AD en PME : pourquoi c'est la cible nº1]]

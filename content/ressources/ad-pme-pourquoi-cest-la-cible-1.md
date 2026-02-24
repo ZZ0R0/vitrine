@@ -66,9 +66,9 @@ Durcir un AD de PME ne prend pas des mois. Les actions prioritaires :
 
 ## Pour aller plus loin
 
-- **Offre associée** : [Bundle B — Active Directory durci](/offres/ad-durci) — Durcissement complet en 5 à 10 jours.
-- **Preuve associée** : [Preuve B1 — AD tiering & admin sécurisée](/preuves/preuve-b1-ad-tiering-admin-securisee) — Modèle de rôles, bastion, GPO, LAPS sur lab.
-- **Méthode** : [Process en 6 étapes](/methodes/process-6-etapes)
+- **Offre associée** : [[content/offres/ad-durci|Bundle B — Active Directory durci]] — Durcissement complet en 5 à 10 jours.
+- **Preuve associée** : [[content/preuves/preuve-b1-ad-tiering-admin-securisee|Preuve B1 — AD tiering & admin sécurisée]] — Modèle de rôles, bastion, GPO, LAPS sur lab.
+- **Méthode** : [[content/methodes/process-6-etapes|Process en 6 étapes]]
 
 ---
 
@@ -76,4 +76,4 @@ Durcir un AD de PME ne prend pas des mois. Les actions prioritaires :
 
 - [ANSSI — Recommandations pour l'administration sécurisée des SI](https://www.ssi.gouv.fr/guide/recommandations-relatives-a-ladministration-securisee-des-systemes-dinformation/)
 - [ANSSI — Points de contrôle AD](https://www.cert.ssi.gouv.fr/dur/CERTFR-2020-DUR-001/)
-- [Article complémentaire — Onboarding/offboarding : les 10 erreurs](/ressources/onboarding-offboarding-les-10-erreurs)
+- [[content/ressources/onboarding-offboarding-les-10-erreurs|Article complémentaire — Onboarding/offboarding : les 10 erreurs]]

@@ -87,13 +87,13 @@ flowchart LR
 
 > Je ne conserve aucune donnée client au-delà de la période définie.
 > Je ne réutilise aucune donnée d'un client pour un autre.
-> Je ne publie aucune donnée identifiable — voir [politique d'anonymisation](/methodes/anonymisation-publication).
+> Je ne publie aucune donnée identifiable — voir [[content/methodes/anonymisation-publication|politique d'anonymisation]].
 
 ---
 
 ## Références
 
-- [Anonymisation & publication](/methodes/anonymisation-publication)
+- [[content/methodes/anonymisation-publication|Anonymisation & publication]]
 - [CNIL — Guide de la sécurité des données personnelles](https://www.cnil.fr/fr/guide-de-la-securite-des-donnees-personnelles)
 - [ANSSI — Guide d'hygiène informatique](https://www.ssi.gouv.fr/guide/guide-dhygiene-informatique/)
 - [Directive NIS2 — contexte](https://www.ssi.gouv.fr/directive-nis-2/)
