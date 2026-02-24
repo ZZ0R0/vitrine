@@ -51,8 +51,23 @@ Résultat : une plateforme prête pour la production, avec rollback et supervisi
 
 ## Comment je travaille — process en 6 étapes
 
+```mermaid
+flowchart TB
+	A[Cadrage & pérmiètre]
+	B[Audit & inventaire]
+	C[Plan de remédiation]
+	D[Implémentation]
+	E[Validation]
+	F[Restitution & transfert]
 
-![[plan-6-étapes.png]]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+```
+
+
 
 
 1. **Cadrage & périmètre** — Définition des objectifs, contraintes, exclusions.

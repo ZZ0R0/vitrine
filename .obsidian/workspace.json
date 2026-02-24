@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/preuves/preuve-a1-socle-si-lab.md",
-                "mode": "preview",
+                "file": "content/index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "preuve-a1-socle-si-lab"
+              "title": "index"
             }
           }
         ]
@@ -194,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3ff7c14a7a8ece8",
+  "active": "43c80f5398b55272",
   "lastOpenFiles": [
     "content/preuves/preuve-a1-socle-si-lab.md",
-    "content/index.md",
     "content/preuves.md",
+    "content/index.md",
     "preuves/preuve-a1-socle-si-lab.md",
     "offres/socle-si-securise.md",
     "offres",
