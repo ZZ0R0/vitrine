@@ -5,13 +5,14 @@ title: Accueil
 # IT & Cybersécurité externalisée — TPE / PME
 
 **Infrastructures stables, sécurisées, documentées.**
+
 Un prestataire unique pour votre socle technique : de l'audit initial à l'exploitation quotidienne, chaque intervention est tracée, testée et livrée avec sa documentation.
 
 ---
 
 ## Trois offres clés en main
 
-### [[offres/socle-si-securise|Bundle A — Socle SI sécurisé]]
+### [[offres/socle-si-securise|Bundle Y — Socle SI sécurisé]]
 Remise à niveau complète : segmentation réseau, durcissement, sauvegardes testées, supervision minimale.
 Résultat : un SI fonctionnel, documenté, avec des preuves de restauration.
 
